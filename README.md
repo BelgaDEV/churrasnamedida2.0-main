@@ -7,7 +7,7 @@ Projeto exclusivo de minha autoria.
 <br>
 
 <p align="center">
-  <img alt="Página inicial" src="./imagens/bg11.png" width="50%">
+  <img alt="Página inicial" src="./src/imagens/bg11.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
